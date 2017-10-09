@@ -1,0 +1,59 @@
+a#img_upload-button_wellcome,
+a#img_upload-button_appointment,
+a#img_upload-button3,
+a#img_upload-button_about,
+a#img_upload-button_counter,
+a#img_upload-button2,
+a#img_upload-marker,
+a#img_upload-button_writer,
+a#img_upload-button_who_we_are,
+a#img_upload-button_about_lawear1, 
+a#img_upload-button_about_lawear2,
+a#img_upload-button_paralax,
+a#img_upload-button {
+    display: block;
+    overflow: hidden;
+    border: 1px solid #eee;
+    padding: 20px;
+    margin-top: 10px;
+}
+.text-center{text-align: center;}
+.nopadding{padding:0 !important;}
+a#img_upload-button3 img,
+a#img_upload-marker img,
+a#img_upload-button_writer img,
+a#img_upload-button_about img,
+a#img_upload-button_paralax img,
+a#img_upload-button_who_we_are img,
+a#img_upload-button_about_lawear1 img, 
+a#img_upload-button_about_lawear2 img,
+a#img_upload-button_wellcome img,
+a#img_upload-button_appointment img,
+a#img_upload-button_counter img,
+a#img_upload-button2 img,
+a#img_upload-button img {
+    max-width: 100%;
+}
+.mt5{margin-top:5px;}
+.mt10{margin-top:10px;}
+.sarea {
+    position: relative;
+}
+.sarea .delete {
+    position: absolute;
+    right: 0px;
+    color: #c74242;
+    padding: 10px;
+    text-align: center;
+    top: -4px;
+    display: none;
+}
+.sarea .delete > div{font-size:25px; cursor: pointer;}
+.sarea:hover .delete{display: block;}
+div#sliderContent input {
+    width: 100%;
+}
+div#sliderContent label {
+    margin-top: 10px;
+    display: block;
+}

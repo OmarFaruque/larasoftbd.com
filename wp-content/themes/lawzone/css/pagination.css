@@ -1,0 +1,18 @@
+.pagination {
+    display: block;
+}
+div#pagination span, div#pagination a {
+    /*background: #ddd;*/
+    padding: 5px 10px;
+    margin: 5px;
+    border: 1px solid #F68A15;
+}
+
+div#pagination a:hover,
+div#pagination span.current{
+	background-color: #F68A15;
+	color:#fff;
+}
+div#pagination .pagination span:first-child {
+    border-width: 0;
+}

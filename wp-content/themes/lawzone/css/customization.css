@@ -1,0 +1,123 @@
+.post-overlay img,
+section.widget.blog .post-overlay img {
+    min-width: 100% !important;
+}
+div#bx-pager a img {
+    max-width: 75px;
+}
+section.width100,
+section.description,
+section#lebal_memorandum{
+	width:100%;
+}
+section#lebal_memorandum .container{
+    padding-bottom:80px;
+    padding-top:80px;
+}
+
+}
+.mt10{margin-top:10px;}
+.mt20{margin-top:20px;}
+.mt30{margin-top:30px;}
+.mt40{margin-top:40px;}
+.mt50{margin-top:50px;}
+.mt60{margin-top:60px;}
+.mt70{margin-top:70px;}
+.mt80{margin-top:80px;}
+.mt90{margin-top:90px;}
+.mt100{margin-top:100px;}
+
+.mb0{margin-bottom:0 !important;}
+.pb0{padding-bottom:0 !important;}
+.mt0{margin-top:0 !important;}
+.pt0{padding-top:0 !important;}
+
+
+
+/* =Pagination
+-------------------------------------------------------------- */
+
+.ca_pagination {
+ 	margin-top:40px;
+}
+.ca_pagination a {
+    padding: 5px 10px 4px 10px;
+    margin: 3px;
+    text-decoration: none;
+    border: 1px solid #ccc;
+    background-color: inherit;
+}
+
+.ca_pagination a.single_page {
+    padding: 5px 10px 4px 10px;
+    margin: 3px;
+    text-decoration: none;
+    border: 1px solid #ccc;
+    background-color: inherit;
+}
+
+.ca_pagination a:hover {
+    margin: 3px;
+    font-weight:normal;
+    color: #000;
+}
+.ca_pagination span.pages {
+    padding: 5px 10px 4px 0;
+    margin: 3px;
+    color: #ccc;
+    font-weight:normal;
+    background-color: inherit;
+}
+.ca_pagination span.current {
+    padding: 5px 10px 4px 10px;
+    margin: 3px;
+    font-weight:bold;
+    border: 1px solid #f68a15;
+    color: #FFF;
+    background-color: #f68a15;
+}
+
+.ca_pagination .pnlink a {
+	color:#fff;
+	background:#f68a15;
+	border:#f68a15;
+}
+.ca_pagination span.expand {
+    padding: 5px 6px 4px 6px;
+    margin: 3px;
+    border: 1px solid #ccc;
+    color: #000;
+    background-color: inherit;
+}
+.ca_pagination .first, .pagenavi .last {
+    border: 1px solid #aaa;
+}
+
+.ca_pagination .single_page {
+border: 1px dashed #ccc;
+}
+
+nav.main-menu.logo-outer ul.navigation > li > a > span.caret {
+    display: none;
+}
+section.hero.hero-slider-wrapper {
+    min-width: 100%;
+}
+
+section.fact-counter .container {
+    padding: 130px 0;
+}
+section.width100.testimonial .container {
+    padding: 100px 0;
+}
+section.defaultCotnent .container-fluid {
+    padding-bottom: 0;
+}
+section.gallery-one {
+    padding-bottom: 50px;
+}
+.typing-slider h1 span{color:#fff;}
+
+.panel-heading {
+    overflow: hidden;
+}

@@ -1,0 +1,71 @@
+.blueimp-gallery > .slides > .slide {
+    cursor: pointer;
+}
+.spinner {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: url("../img/spinner.gif");
+    background-position: center center;
+    background-repeat: no-repeat;
+    opacity: .8;
+}
+
+
+.gallery .thumb {
+	margin: 20px auto;
+}
+
+.gallery .error-wrapper {
+	margin: 20px 0;
+}
+
+.gallery .error-wrapper .error {
+	font-style: italic;
+}
+
+
+footer {
+	
+	color: #333;
+}
+
+footer .footer-content {
+	text-align: right;
+	font-size: 0.7em;
+}
+
+footer .footer-content p {
+	margin-bottom: 3px;
+}
+
+footer .flickr-notice {
+	font-style: italic;
+	font-size: 0.9em;
+}
+.flickr-feed ul li {
+    max-width: 95px;
+    width:95px;
+}
+.flickr-feed.clearfix {
+    max-height: 250px;
+    overflow: auto;
+}
+
+.flickr-feed::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: transparent;
+}
+
+.flickr-feed::-webkit-scrollbar
+{
+	width: 5px;
+	background-color: transparent;
+}
+
+.flickr-feed::-webkit-scrollbar-thumb
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+	background-color: #D62929;
+}

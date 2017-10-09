@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+.social-sharing {
+    width: 100%;
+    clear: both;
+    text-align: right;
+    margin-top: 30px;
+    display: block;
+    overflow: hidden;
+    float: left;
+}
+
+
+
+
